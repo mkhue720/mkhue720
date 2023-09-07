@@ -8,7 +8,7 @@
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
 <a href="https://fb.com/khue004" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1646955748444852231/XGehZ_9v_400x400.jpg" alt="khue004" Height="30" width="40" /></a>
-<a href="https://www.youtube.com/@raikichannel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github- profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raikichannel" Height="30" width="40" /></a> </p> <h3 căn
+<a href="https://www.youtube.com/@raikichannel" target="blank"><img align="center" src="https://cdn.tgdd.vn/2020/03/GameApp/youtube-200x200.jpg" alt="raikichannel" Height="30" width="40" /></a> </p> <h3 căn
 chỉnh
 
 = "left">Ngôn ngữ và công cụ:</h3>
@@ -47,7 +47,7 @@ chỉnh
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
         <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" Height="40"/> </a> 
     <a href ="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-origen.svg" alt="php" width="40" Height="40"/> </a> 
+        <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="40" Height="40"/> </a> 
     <a href="https://postman. com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" Height= "40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
