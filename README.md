@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ngô Minh Khuê (NMK)</h1>
-<h3 align="center">A passionate developer web from Vietnam</h3>
+<h3 align="center"I'm a developer web from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkhue720&label=Profile%20views&color=0e75b6&style=flat" alt="mkhue720" /> </p>
 
